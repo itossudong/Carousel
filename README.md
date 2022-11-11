@@ -11,3 +11,5 @@ This is a slideshow of six different images with directional icons(previous and 
 ### Links:
 
 Here is the hosted link.
+
+https://itossudong.github.io/Carousel/
